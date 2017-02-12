@@ -6,5 +6,5 @@
 
 Legend:
 
-Physical mood: tired, medium, good
-Psychological mood: down, ok, happy
+- Physical mood: tired, medium, good
+- Psychological mood: down, ok, happy
