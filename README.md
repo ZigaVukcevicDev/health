@@ -8,6 +8,8 @@
 | Thu, 16.02.2017 |   medium   |     ok      | MR: 147/90-97  |    74,7    |    yes   |  no   |               |
 | Fri, 17.02.2017 |   medium   |     ok      | MR: 138/84-81  |    75,2    |    no    |  no   |               |
 | Sat, 18.02.2017 |   medium   |     ok      | MR: 145/90-100 |    74,3    |    yes   |  no   |               |
+| Sun, 19.02.2017 |   medium   |     ok      | ML: 136/87-100 |    76,3    |    no    |  no   |               |
+| Mon, 20.02.2017 |   good     |     ok      | ML: 146/95-75  |    74,9    |    no    |  no   |               |
 
 Legend:
 
