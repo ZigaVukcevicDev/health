@@ -15,7 +15,7 @@
 | Thu, 23.02.2017 |   tired    |     ok      | ML: 140/94-82  |    74,2    |    no    |  no   |               |
 | Fri, 24.02.2017 |   tired    |     ok      | ML: 136/88-98  |    75,1    |    no    |  no   | sugar desire  |
 | Sat, 25.02.2017 |   medium   |     edge    | ML: 147/90-92  |    74,2    |    no    |  no   | sugar desire  |
-| Sun, 26.02.2017 |   medium   |     edge    | ML: 140-94-108 |    74,6    |    no    |  no   |               |
+| Sun, 26.02.2017 |   medium   |     edge    | ML: 140/94-108 |    74,6    |    no    |  no   |               |
 
 Legend:
 
